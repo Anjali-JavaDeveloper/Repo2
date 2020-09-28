@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is D2A8-F374
-
- Directory of C:\Users\ANJALI\GitLearningProject
-
-09/28/2020  11:18 PM    <DIR>          .
-09/28/2020  11:18 PM    <DIR>          ..
-09/28/2020  11:18 PM                 0 FirstTest.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  123,730,714,624 bytes free
+Git GitHub
